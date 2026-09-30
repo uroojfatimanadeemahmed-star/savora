@@ -1,0 +1,9 @@
+{
+  "name": "restrunt",
+  "version": "1.0.0",
+  "description": "restrunt site split into frontend and backend files",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  }
+}
